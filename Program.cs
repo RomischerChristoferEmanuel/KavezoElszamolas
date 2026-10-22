@@ -27,4 +27,5 @@ foreach (string line in tarol)
     Console.WriteLine($"{vagot.BaristaNev}: {vagot.EladottKavek} kávé, {vagot.NapiBevetelFt} Ft bevétel (Rontott: {vagot.RontottItalok}) - Fizetés: {alap} Ft");
 
 
+
 }
