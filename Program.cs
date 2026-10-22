@@ -9,5 +9,5 @@ foreach (string line in tarol)
     vagot.EladottKavek=int.Parse(vag[1]);
     vagot.NapiBevetelFt = int.Parse(vag[2]);
     vagot.RontottItalok = int.Parse(vag[3]);
-
+    osszlista.Add(vagot);
 }
